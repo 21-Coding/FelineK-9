@@ -1,0 +1,41 @@
+body {
+  background: url("../img/405b5f0dfe39a0ff3a287f17a01f0ee3.png") no-repeat center center fixed;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 10%;
+  font-size: 5rem;
+}
+
+ul {
+  padding: 1rem 0;
+  list-style: none;
+}
+
+li {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+ul#meow li:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+ul#woof li:hover {
+  color: dodgerblue;
+  text-decoration: underline;
+}
+
+.btn {
+  margin: 1rem;
+}
+
+#cat {
+  color: red;
+}
+
+#dog {
+  color: dodgerblue;
+}
