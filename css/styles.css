@@ -16,6 +16,8 @@ ul {
 li {
   text-transform: uppercase;
   font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
 }
 
 ul#meow li:hover {
@@ -34,8 +36,27 @@ ul#woof li:hover {
 
 #cat {
   color: red;
+  font-family: 'Fascinate Inline', cursive;
 }
 
 #dog {
   color: dodgerblue;
+  font-family: 'Fascinate Inline', cursive;
+}
+
+#cat-button {
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 2rem;
+  background-color: red;
+}
+
+#dog-button {
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 2rem;
+  background-color: dodgerblue;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
 }
